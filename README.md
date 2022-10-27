@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Located: houston, Tx
+Whether it's arts and crafts or making handmade gifts, my favorite part about being creative is seeing something that was just a thought in someone else's mind
 
 
 - 💬 Ask me about my projects !
