@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-Located: houston, Tx
-Whether it's arts and crafts or making handmade gifts, my favorite part about being creative is seeing something that was just a thought in someone else's mind
+- Whether it's arts and crafts or making handmade gifts, 
+my favorite part about being creative is seeing something 
+that was just a thought in someone else's mind
+- Located: houston, Tx
+
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I can speak 3 langues ( five if you count programing languages ! )
 
 
-- 💬 Ask me about my projects !
-
-[Hubble Project](https://github.com/varshagade211/Hubble)
-
-- 📫 How to reach me:  
+ 📫 How to reach me:  
 
 
 ![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -17,7 +18,4 @@ Whether it's arts and crafts or making handmade gifts, my favorite part about be
 ![alt text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 arredondo.a.isabel@gmail.com
 
-
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I can speak 3 langues ( five if you count programing languages ! )
 
